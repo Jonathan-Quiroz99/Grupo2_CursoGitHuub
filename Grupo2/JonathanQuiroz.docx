@@ -1,0 +1,14 @@
+dentro de github en mi perfil me fui a la seccion de repositorios, adentro de la seccion escoji la crear nuevo repositorio
+escoji las especificaciones y el nombre del repositorio.
+
+una vez creado el repositorio vacio fui a la seccion de colaboradores adentro de la configuracion del repositorio e invite al reposto 
+del grupo para que pudieran acceder al repositorio y agreagar archivos propios
+
+desde mi computadora accedi al repositorio utilizando visual studios code por que ya tenia mi cuenta de github iniciada alli
+aqui fue facil solo entre a la tercera opcion en el panel lzquierdo "source control" (estaba en ingles), hice click en clonar 
+repositorio y en la parte de arriba del programa que sirve como buscador, elegi la opcion de clonar de github y aparecen mis repositorios
+elegi el repositorio que se creo para este ejercicio y escogi un lugar en mi pantalla de inicio para clonar el repositorio
+
+una vez clonado empece a crear este documento y para terminar seleccione commite desde source control y visual studio hizo el resto para
+subir los cambios al repositorio
+
